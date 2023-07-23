@@ -25,6 +25,10 @@
 
 <a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/mostafa-bder-593347218/)" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Beder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mostafa_Beder10" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Beder-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
