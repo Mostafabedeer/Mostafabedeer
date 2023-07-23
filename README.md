@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
 </div>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="230" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Mostafa Beder's profile!
@@ -26,7 +26,7 @@
 <a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/mostafa-bder-593347218/)" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Beder-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mostafa_Beder10" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Beder-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=180 width=230 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
 ### 🛠 &nbsp;Tech Stack
