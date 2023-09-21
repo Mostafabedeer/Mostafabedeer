@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+
 <div align="center">
 <h2>	$${\color{lightblue}𝐇𝐞𝐥𝐥𝐨\space𝐭𝐡𝐞𝐫𝐞,\space𝐟𝐞𝐥𝐥𝐨𝐰}$$  $${\color{red}<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!}$$ </h2>
 </div>
@@ -50,6 +52,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafabedeer&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 <!--
 <a href="https://komarev.com/ghpvc/?username=Mostafabedeer&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mostafabedeer&style=for-the-badge">
