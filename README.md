@@ -3,7 +3,7 @@
 <div align="center">
 <h2>	$${\color{lightblue}𝐇𝐞𝐥𝐥𝐨\space𝐭𝐡𝐞𝐫𝐞,\space𝐟𝐞𝐥𝐥𝐨𝐰}$$  $${\color{red}<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!}$$ </h2>
 </div>
-<img align="right"   height100 width=100 src="https://orhun.dev/img/crow.png">
+<img align="right"   height=100 width=100 src="https://orhun.dev/img/crow.png">
 
 <!-- <img width="230" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> -->
 
