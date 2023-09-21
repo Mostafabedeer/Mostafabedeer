@@ -21,6 +21,7 @@
 - 🏢 I'm a Software Engineer .
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html, CSS, JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- Throughout my academic journey, I have consistently demonstrated my commitment to excellence.My coursework in Computer Science has equipped me with a solid foundation in programming principles and problem-solving techniques.
 - ⚡ Fun Fact: I love the game of chess as if it is a war to destroy the minds of opponents.
 
 
